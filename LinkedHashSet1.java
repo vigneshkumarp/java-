@@ -1,5 +1,5 @@
 import java.util.*;  
-class Test{  
+class LinkedHashSet1{  
  public static void main(String args[]){  
   LinkedHashSet<String> al=new LinkedHashSet<String>();  
   al.add("Ravi");  
